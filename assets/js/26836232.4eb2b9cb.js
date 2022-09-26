@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksilver_doodle=self.webpackChunksilver_doodle||[]).push([[4654],{5860:e=>{e.exports=JSON.parse('{"label":"facebook","permalink":"/silver-doodle/blog/tags/facebook","allTagsPath":"/silver-doodle/blog/tags","count":1}')}}]);

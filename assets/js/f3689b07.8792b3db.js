@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksilver_doodle=self.webpackChunksilver_doodle||[]).push([[3806],{2143:e=>{e.exports=JSON.parse('{"permalink":"/silver-doodle/blog/tags/hola","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
